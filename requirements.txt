@@ -1,0 +1,7 @@
+langchain
+faiss-cpu 
+openai 
+pypdf 
+streamlit 
+beautifulsoup4 
+requests
