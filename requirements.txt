@@ -1,7 +1,8 @@
-langchain
-faiss-cpu 
-openai 
+langchain==0.0.262
+faiss-cpu==1.8.0
+openai==0.28
 pypdf 
-streamlit 
+streamlit==1.37.1
 beautifulsoup4 
 requests
+tiktoken
