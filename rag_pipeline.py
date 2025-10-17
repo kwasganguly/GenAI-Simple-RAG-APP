@@ -36,4 +36,3 @@ class RAGPipeline:
             return_source_documents=True
         )
         return qa({"query": question})
-

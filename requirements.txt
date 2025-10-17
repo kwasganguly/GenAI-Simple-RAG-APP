@@ -6,3 +6,9 @@ streamlit==1.37.1
 beautifulsoup4 
 requests
 tiktoken
+
+# export GCP_PROJECT='dnn-census'
+# export GCP_REGION='us-central1'
+# export AR_REPO='genai-rag-app-repo'
+# export SERVICE_NAME='genai-rag-app' 
+
