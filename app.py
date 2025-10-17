@@ -153,10 +153,10 @@ st.markdown("""
 <div class="rb-top">
   <div style="display:flex;justify-content:space-between;align-items:center">
     <div>
-      <h1 style="margin:0">RAG Chatbot — Final (fixed sources)</h1>
-      <div style="opacity:0.95;font-size:13px">See the exact chunks used for retrieval below.</div>
+      <h1 style="margin:0">RAG Chatbot - DocumentAI(fixed sources)</h1>
+      <div style="opacity:0.95;font-size:13px">Follow Q&A.</div>
     </div>
-    <div style="font-size:13px;opacity:0.95">Professional • Clear • Colorful</div>
+    <div style="font-size:13px;opacity:0.95">Context Driven • Chat Assistant</div>
   </div>
 </div>
 """, unsafe_allow_html=True)
